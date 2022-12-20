@@ -1,9 +1,9 @@
 ## Oiii eu sou a George Carlos, Programer and Systems developer!
 <div align="center">
   <a href="https://github.com/ogeorgecarlos">
- <figure style="display:flex-box; flex-direction=row";>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogeorgecarlos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogeorgecarlos&layout=compact&langs_count=7&theme=dark"/>
+ <figure style="display:flex; flex-direction=row; align-items: center;">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ogeorgecarlos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogeorgecarlos&layout=compact&langs_count=7&theme=dark"/>
  <figure>
 </div>
 <div style="display: inline_block"><br>
