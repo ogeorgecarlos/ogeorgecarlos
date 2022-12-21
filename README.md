@@ -1,4 +1,4 @@
-## Oiii eu sou a George Carlos, Programer and Systems developer!
+## Hey! I'm George, Programer and Systems developer! 👨‍💻
 <div align="center">
   <a href="https://github.com/ogeorgecarlos">
  <figure style="display:flex; flex-direction=row; align-items: center;">
